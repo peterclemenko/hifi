@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "always-tail": "0.2.0",
-    "cheerio": "^0.19.0",
+    "cheerio": "^0.20.0",
     "extend": "^3.0.0",
     "fs-extra": "^0.26.4",
     "node-notifier": "^4.4.0",
